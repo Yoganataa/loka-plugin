@@ -1,0 +1,12 @@
+{
+  "id": "wikipedia-umum",
+  "name": "Wikipedia (Umum)",
+  "version": "1.0.0",
+  "lang": "multi",
+  "type": "umum",
+  "apiVersion": 1,
+  "hosts": ["https://en.wikipedia.org/*"],
+  "permissions": [],
+  "entry": "source.js",
+  "description": "Source demo berbasis API publik Wikipedia; konten CC BY-SA, tanpa login atau verifikasi."
+}

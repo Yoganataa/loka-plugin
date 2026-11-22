@@ -1,0 +1,12 @@
+{
+  "id": "contoh-komik",
+  "name": "Contoh Komik",
+  "version": "1.0.0",
+  "lang": "id",
+  "type": "komik",
+  "apiVersion": 1,
+  "hosts": ["https://komik.example.org/*"],
+  "permissions": ["session"],
+  "entry": "source.js",
+  "description": "Contoh source komik; ganti host dan logikanya."
+}
