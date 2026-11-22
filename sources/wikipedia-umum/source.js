@@ -23,7 +23,7 @@ async function get(params) {
 }
 
 function toEntry(page) {
-  return { id: String(page.pageid), title: page.title };
+  return { id: String(page.pageid || page.id || page.title), title: page.title };
 }
 
 export default {
