@@ -94,7 +94,7 @@ Pemeriksa (terjadwal) memanggil `units(entryId)` per entri pustaka dan membandin
 
 - Loka menyatakan rentang `apiVersion` yang didukung. Source di luar rentang tampil sebagai "tidak kompatibel" dan tidak dipanggil.
 - Perubahan yang **menambah** bidang opsional: tetap `apiVersion` yang sama. Perubahan yang mengubah/menghapus bidang atau perilaku: naikkan `apiVersion`.
-- Setiap perubahan kontrak memperbarui dokumen ini, `README.md`, validator, dan templat di skill `loka-source-plugin`.
+- Setiap perubahan kontrak memperbarui dokumen ini, `README.md`, validator, dan templat di skill `source-plugin`.
 
 ## Katalog
 

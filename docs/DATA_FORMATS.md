@@ -60,7 +60,7 @@ Aturan pemulihan (ikuti di native):
 
 ## Paket source (usulan v1)
 
-Berkas zip berisi tepat `manifest.json` dan `source.js` (tanpa berkas lain pada v1). Batas ukuran (mis. 1 MB) dan penolakan jalur berbahaya (`..`, jalur absolut) ditetapkan saat implementasi. Validasi manifest: `.agents/skills/loka-source-plugin/scripts/validate_manifest.py` sebagai rujukan aturan.
+Berkas zip berisi tepat `manifest.json` dan `source.js` (tanpa berkas lain pada v1). Batas ukuran (mis. 1 MB) dan penolakan jalur berbahaya (`..`, jalur absolut) ditetapkan saat implementasi. Validasi manifest: `.agents/skills/source-plugin/scripts/validate_manifest.py` sebagai rujukan aturan.
 
 ## Skema basis data (usulan)
 

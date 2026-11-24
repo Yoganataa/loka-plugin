@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: No brand names in paths or identifiers
+        run: python3 tools/check_naming.py
       - name: Validate sources
         run: python3 tools/validate.py
       - name: Build index (dry run)

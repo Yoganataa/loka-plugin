@@ -40,4 +40,4 @@ Pengembang hanya menyediakan alat ini. Penggunaan alat untuk melanggar hukum, ha
 
 ## Lisensi
 
-PolyForm Noncommercial 1.0.0: penggunaan komersial membutuhkan izin tertulis dari pemilik. Lihat [LICENSE](LICENSE). **Penting:** berkas LICENSE saat ini masih berisi catatan, bukan teks lengkap; jalankan `sh scripts/fetch-license.sh` untuk melengkapinya.
+PolyForm Noncommercial 1.0.0: penggunaan komersial membutuhkan izin tertulis dari pemilik. Lihat [LICENSE](LICENSE). Teks resmi lengkap sudah disertakan; `sh scripts/fetch-license.sh` dipakai untuk memulihkan teks itu bila perlu.
